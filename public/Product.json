@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Stone HS270 ",
+      "image": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/07/Best-drones-under-200-feature-1-e1594506058235.jpg",
+      "price": "1200",
+      "description": "Holy Stone HS270 GPS 2.7K Drone with FHD FPV Camera Live Video for Adults, Portable Selfie Quadcopter with 2 Batteries for Beginners with Auto Return Home, Custom Flight Path, Follow Me, Auto Hover"
+    },
+    {
+      "name": "U49WF FPV",
+      "image": "https://www.irishtimes.com/polopoly_fs/1.2966868.1486483173!/image/image.jpg",
+      "price": "2,300",
+      "description": "Force1 U49WF FPV Drone with Camera for Adults - VR Headset Compatible WiFi Quadcopter RTF Remote Control Flying Drone with 720p HD Drone Camera, Altitude Hold, Headless Mode, and 2 Drone Batteries"
+    },
+    {
+      "name": "Mavic Air 2",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/612e0096639301.5eb2e2423d592.jpg",
+      "price": "499",
+      "description": "DJI Mini 2 – Ultralight and Foldable Drone Quadcopter, 3-Axis Gimbal with 4K Camera, 12MP Photo, 31 Mins Flight Time, OcuSync 2.0 10km HD Video Transmission, QuickShots Gray"
+    },
+    {
+      "name": "Skydio 2",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2019/10/Skydio-2-drone-5.jpg",
+      "price": "944",
+      "description": "Designed to be your personal film crew in a case, Skydio 2 captures stunning 4K60 HDR content, follows subjects, and avoids obstacles to create previously impossible shots. Launch, fly, land. "
+    },
+    {
+      "name": "DJI FPV Drone",
+      "image": "https://cdn.pocket-lint.com/r/s/970x/assets/images/155873-drones-news-dji-fpv-is-a-fast-nimble-drone-and-can-do-0-60-in-2-seconds-image3-rtqkym1bsn.jpg",
+      "price": "399",
+      "description": "DJI FPV Combo - First-Person View Drone UAV Quadcopter with 4K Camera, S Flight Mode, Super-Wide 150° FOV, HD Low-Latency Transmission, Emergency Brake and Hover, Gray "
+    },
+    {
+      "name": "Autel EVO ",
+      "image": "https://dronedj.com/wp-content/uploads/sites/2/2019/06/autel-evo1.jpg",
+      "price": "480",
+      "description": "Autel Robotics EVO II 8K Drone Camera, Portable Folding Aircraft with Remote Controller, Captures Incredibly Smooth 8K Ultra HD Video and 48MP Photos When Autel announced the folding Evo it "
+    },
+    {
+      "name": " Mavic 2 Zoom",
+      "image": "https://shotkit.com/wp-content/uploads/2019/09/DJI-Mavic-2-Pro-vs-Mavic-Pro-5.jpg",
+      "price": "1,599",
+      "description": "DJI Mavic 2 Zoom - Drone Quadcopter UAV with Optical Zoom Camera 3-Axis Gimbal 4K Video 12MP 1/2.3 CMOS Sensor, up to 48mph, Gray The standard remote controller offers up to 135."
+    },
+    {
+      "name": "Mavic 2 Pro",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/vc/ef162a07-59ed-48e3-a058-e2698a866b13.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "price": "1300",
+      "description": "DJI Mavic 2 Pro - Drone Quadcopter UAV with Hasselblad Camera 3-Axis Gimbal HDR 4K Video Adjustable Aperture 20MP 1 CMOS Sensor, up to 48mph, Gray Up to 31 minutes flight time 44 ."
+    },
+    {
+      "name": "Phantom 4 ",
+      "image": "https://im.indiatimes.in/content/2021/Jul/Drone-copy_60ed2b6fae47d.jpg?w=2184&h=1116&cc=1",
+      "price": "1,700",
+      "description": "The Phantom 4 Pro V2.0 camera drone comes equipped with a 3-axis motorized gimbal and a 1-inch 20MP CMOS sensor with a mechanical shutter that eliminates rolling shutter distortion."
+      
+    },
+    {
+      "name": "DJI Inspire 2",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/cbunoacrw8tk1-IN/image;s=850x0",
+      "price": "2,777",
+      "description": "The Inspire 1 was a revelation. The first filmmaking drone in the world to integrate an HD video transmission system, 360° rotating gimbal and a 4K camera,as well as the simplicity of app ."
+    },
+    {
+      "name": " MAVIC MINI",
+      "image": "https://forum44.djicdn.com/data/attachment/forum/202006/14/180340iom7nb8ag5wiyibm.jpg",
+      "price": "599",
+      "description": "Small But Mighty Thanks to intuitive and advanced features packed in a portable frame, DJI Mini 2 provides complete freedom wherever and however you want to create. Whether ."
+    },
+    {
+      "name": " Matrice M200 ",
+      "image": "https://www.ameripetfirstaid.com/wp-content/uploads/2016/10/drones-with-camera-1024x576.jpg",
+      "price": "6000",
+      "description": "In this day and age, the advancement of technology has become faster than ever. And with that comes the rise in popularity of hi-tech toys and gadgets like 3D printers, hoverboards"
+    }
+  ]

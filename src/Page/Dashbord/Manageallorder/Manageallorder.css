@@ -1,0 +1,35 @@
+.manageorder-button-parent {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 25px;
+}
+.manageorder-button-delete {
+  padding: 14px 30px;
+  background-color: rgb(214, 118, 133);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  margin: 13px 0 30px 0;
+  font-size: 15px;
+  font-family: "Roboto", Helvetica, Arial, sans-serif, sans-serif;
+  transition: 0.3s;
+}
+
+.manageorder-button-delete:hover {
+  background-color: rgb(216, 32, 60);
+}
+
+.manageorder-button-shipped {
+  padding: 14px 30px;
+  background-color: rgb(75, 160, 212);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  margin: 13px 0 30px 0;
+  font-size: 15px;
+  font-family: "Roboto", Helvetica, Arial, sans-serif, sans-serif;
+  transition: 0.3s;
+}
+.manageorder-button-shipped:hover {
+  background-color: rgb(7, 137, 218);
+}

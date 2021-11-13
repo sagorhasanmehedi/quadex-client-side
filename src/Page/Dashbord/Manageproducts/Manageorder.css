@@ -1,0 +1,13 @@
+.manage-order-grid {
+  margin-bottom: 50px;
+}
+@media only screen and (max-width: 600px) {
+  .dashbord-banner-all-page {
+    min-height: 130px !important;
+    margin-bottom: 25px !important;
+  }
+  .my-order-title {
+    padding-top: 40px !important;
+    font-size: 26px !important;
+  }
+}

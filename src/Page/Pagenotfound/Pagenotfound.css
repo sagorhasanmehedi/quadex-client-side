@@ -1,0 +1,25 @@
+.notfound-button {
+  padding: 25px 70px;
+  background-color: tomato;
+  color: white;
+  font-size: 17px;
+  font-weight: 600;
+  border-radius: 3px;
+  margin-left: 46%;
+  margin-top: 40%;
+  border: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .notfound-button {
+    padding: 25px 70px;
+    background-color: tomato;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 3px;
+    margin-left: 22%;
+    margin-top: 153%;
+    border: none;
+  }
+}

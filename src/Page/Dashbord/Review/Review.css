@@ -1,0 +1,44 @@
+.text-field {
+  padding: 25px;
+  margin-top: 50px;
+}
+.input-FIELD {
+  width: 500px;
+}
+.textAREA {
+  border: 1px solid light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  border-radius: 3px;
+  outline: none;
+  font-size: 18px;
+  padding-left: 15px;
+  color: rgb(155, 153, 153);
+}
+.review-button {
+  width: 100%;
+  padding: 14px;
+  background-color: rgb(7, 146, 233);
+  border: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+@media only screen and (max-width: 650px) {
+  .input-FIELD {
+    width: 100% !important;
+  }
+  .textAREA {
+    width: 100%;
+  }
+  .review-banner {
+    height: 130px !important;
+  }
+  .text-field {
+    margin-top: 25px;
+  }
+  .review-image {
+    width: 100% !important;
+  }
+}

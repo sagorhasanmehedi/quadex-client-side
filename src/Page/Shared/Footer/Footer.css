@@ -1,0 +1,124 @@
+.footer-parent {
+  background-color: #272727;
+  margin-top: 100px;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+.footer-title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0 0 35px;
+  padding: 0;
+  line-height: 1.5;
+}
+.footer-title-p {
+  color: #fff;
+  font-weight: 400;
+  margin: 0 0 13.5px;
+  font-size: 16px;
+  line-height: 1.7;
+}
+.addres {
+  margin: 0 0 13.5 px;
+  color: #9b9b9b;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.7;
+}
+.footer-lisy-item a {
+  color: #9b9b9b;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-size: 17px;
+  line-height: 38px;
+}
+.footer-lisy-item a:hover {
+  text-decoration: underline;
+  color: white;
+}
+.footer-lisy-item li {
+  list-style: none;
+  margin-left: -30px;
+}
+.form-control {
+  border: none;
+  background: #363636;
+  font-size: 15px;
+  font-style: italic;
+  margin: 0 0 10px;
+  padding: 0 25px;
+  display: block;
+  width: 90%;
+  position: relative;
+  z-index: 2;
+  float: left;
+  height: 51px;
+  color: #b3b3b3;
+}
+.footer-textarea {
+  border: none;
+  background: #363636;
+  margin: 0 0 30px;
+  font-size: 15px;
+  font-style: italic;
+  padding: 12px 25px;
+  display: block;
+  width: 90%;
+  overflow: auto;
+  color: #b3b3b3 !important;
+}
+.footer-button {
+  border-color: #fff;
+  color: #fff;
+  margin-bottom: 0;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+  border: 2px solid white;
+  padding: 9px 30px;
+  font-size: 16px;
+  line-height: 1.7;
+  transition: all 0.4s ease 0s;
+  background: none;
+}
+.footer-last-section {
+  background-color: #181818;
+  color: #b3b3b3;
+  font-size: 13px;
+  font-weight: 400;
+
+  text-transform: uppercase;
+}
+.footer-button:hover {
+  border-color: yellow;
+}
+.copyright-text a {
+  text-decoration: none;
+  margin-left: 30px;
+}
+.copyright-text li {
+  list-style: none;
+}
+
+.copyright-text ul {
+  display: flex;
+}
+
+.form-control::-webkit-input-placeholder {
+  font-size: 13px !important;
+}
+
+textarea::-webkit-input-placeholder {
+  font-size: 14px !important;
+  color: #b3b3b3 !important;
+}
+
+@media only screen and (max-width: 650px) {
+  .footer-copyright-item {
+    justify-content: space-evenly;
+  }
+  .copyright-text ul {
+    display: flex;
+    flex-direction: column;
+  }
+}
